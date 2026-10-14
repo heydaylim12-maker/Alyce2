@@ -1,0 +1,10 @@
+{
+  "name": "english-sentence-completion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "영어 문장완성 AI 코치 (Vercel)",
+  "engines": {
+    "node": ">=18"
+  }
+}
